@@ -6,6 +6,10 @@ Salesforce Logging framework powered by Platform Events
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
+Deploy Manually
+---------------
+`sfdx force:mdapi:deploydir src/ --wait 10 -u myTargetOrgAlias`
+
 Documentation
 -------------
 
