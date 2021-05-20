@@ -8,7 +8,7 @@ Salesforce Logging framework powered by Platform Events
 
 Deploy Manually
 ---------------
-`sfdx force:mdapi:deploydir src/ --wait 10 -u myTargetOrgAlias`
+`sfdx force:mdapi:deploy --deploydir src/ --wait 10 -u myTargetOrgAlias`
 
 Documentation
 -------------
